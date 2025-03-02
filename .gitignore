@@ -1,3 +1,15 @@
+# music outputs
+music_outputs/*
+# sequence data
+seq/*
+
+# csv and png files created by this
+*.png
+*.csv
+
+# the soundfont
+FluidR3_GM.sf2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
