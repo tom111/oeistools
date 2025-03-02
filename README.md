@@ -15,4 +15,4 @@ directory `seq` from [here](https://github.com/oeis/oeisdata)
 
 ## Music
 
-- `sonification.py` allows to create music from a sequence.
+- `sonification.py` allows to create music from a sequence. The script uses [fluidsynth](https://www.fluidsynth.org/) for which you will need a soundfont. I used `FluidR3_GM.sf2`.
